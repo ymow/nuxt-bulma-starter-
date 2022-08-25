@@ -1,3 +1,5 @@
+Tutorial from
+[Super Quick Start with Nuxt 3, Vue 3 and Bulma CSS](https://www.youtube.com/watch?v=RfnSmlEB6cc&t=428s)
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
